@@ -1,7 +1,7 @@
 ## Santiago Zubieta
-#### 2025
+#### 2024, 2025
 
-## 5-Day Gen AI Intensive Course
+## 5-Day Gen AI and Agents Intensive Courses
 These notebooks are from the [2024 GenAI course](https://www.kaggle.com/discussions/general/545082) and the [2025 Agents course](https://www.kaggle.com/learn-guide/5-day-agents).
 
 All steps on these notebooks were ran locally on my machine, with slight modifications to make them work outside of the Kaggle environment.

@@ -2,9 +2,15 @@
 #### 2025
 
 ## 5-Day Gen AI Intensive Course
-These notebooks are from the intensive GenAI course provided by [Kaggle](https://www.kaggle.com/discussions/general/545082). All steps on these notebooks were ran locally on my machine, with slight modifications to make them work outside of the Kaggle environment.
+These notebooks are from the [2024 GenAI course](https://www.kaggle.com/discussions/general/545082) and the [2025 Agents course](https://www.kaggle.com/learn-guide/5-day-agents).
 
-### Day_01
+All steps on these notebooks were ran locally on my machine, with slight modifications to make them work outside of the Kaggle environment.
+
+First there's some notebooks from the 2024 version: **5-Day Gen AI Intensive Course**
+Then there's the notebooks from the 2025 version: **5-Day AI Agents Intensive Course with Google**
+
+
+### 2024_Day_01
 On the first day the following things are explored:
 - Sending simple prompts
 - Creating conversations
@@ -16,7 +22,7 @@ On the first day the following things are explored:
 - Prompting to generate or explain code
 - Code execution
 
-### Day_02
+### 2024_Day_02
 On the second day the following things are explored:
 
 #### Document Q&A with RAG
@@ -35,5 +41,23 @@ On the second day the following things are explored:
 - Use tqdm for creating a progress bar when creating a compute intensive dataframe (e.g. creating embeddings)
 - Use Keras to create a classifier model to train with the embeddings and the corresponding category mappings
 - Predict a certain text category by using its embeddings with the embeddings trained model
+
+### 2024_Day_03
+
+### 2024_Day_04
+
+### 2024_Day_05
+
+### 2025_Day_01
+
+### 2025_Day_02
+
+### 2025_Day_03
+
+### 2025_Day_04
+
+### 2025_Day_05
+
+
 
 

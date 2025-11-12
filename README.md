@@ -91,7 +91,8 @@ On the first day the following things are explored:
 #### Multi-agent architecture
 - Define a root agent that can use as tool other specialized agents
 - Create a sequential pipeline or assembly line for reliable ordered steps
-- 
+- Create a parallel pipeline for independent tasks
+- Create a iterative improvement / loop pipeline
 
 ### 2025_Day_02
 

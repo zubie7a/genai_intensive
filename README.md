@@ -11,6 +11,8 @@ Then there's the notebooks from the 2025 version: **5-Day AI Agents Intensive Co
 
 
 ### 2024_Day_01
+Reading: [“Foundational Large Language Models & Text Generation” whitepaper](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+
 On the first day the following things are explored:
 - Sending simple prompts
 - Creating conversations
@@ -23,6 +25,8 @@ On the first day the following things are explored:
 - Code execution
 
 ### 2024_Day_02
+Reading: [“Embeddings and Vector Stores/Databases” whitepaper](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+
 On the second day the following things are explored:
 
 #### Document Q&A with RAG
@@ -43,6 +47,8 @@ On the second day the following things are explored:
 - Predict a certain text category by using its embeddings with the embeddings trained model
 
 ### 2024_Day_03
+Reading: ["Agents" whitepaper](https://www.kaggle.com/whitepaper-agents)
+
 On the third day the following things are explored:
 
 #### Function calling with Gemini API
@@ -59,8 +65,11 @@ On the third day the following things are explored:
 - Try a loop of user input, model responses, and conditional tool usage!
 
 ### 2024_Day_04
+Reading: [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
 
 ### 2024_Day_05
+Reading:[“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops).
+No labs this day, but a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](goo.gle/e2e-gen-ai-app-starter-pack)
 
 ### 2025_Day_01
 

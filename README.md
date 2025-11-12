@@ -67,6 +67,16 @@ On the third day the following things are explored:
 ### 2024_Day_04
 Reading: [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
 
+On the fourth day the following things are explored:
+
+#### Google Search grounding with the Gemini API
+- Use Google Search as a tool for grounding the model beyond its training cutoff
+- Access supporting metadata such as reference links and confidence scores
+- Use other tools such as code execution tool to generate code for example to plot data
+
+#### Finetune a Gemini model for a custom task
+- 
+
 ### 2024_Day_05
 Reading:[“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops).
 

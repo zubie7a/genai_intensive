@@ -51,6 +51,13 @@ On the third day the following things are explored:
 - Provide a model with these functions/tools
 - Prompt a model and observe how these tools are called and how it generates new code e.g. SQL queries to execute
 
+#### Building an agent with LangGraph
+- How to define an agent graph with chatbot and user nodes
+- Create transitions between nodes in the graph
+- Add conditional transitions
+- Add function/tool nodes
+- Try a loop of user input, model responses, and conditional tool usage!
+
 ### 2024_Day_04
 
 ### 2024_Day_05

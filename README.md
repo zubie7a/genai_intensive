@@ -69,6 +69,7 @@ Reading: [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://
 
 ### 2024_Day_05
 Reading:[“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops).
+
 No labs this day, but a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](goo.gle/e2e-gen-ai-app-starter-pack)
 
 ### 2025_Day_01

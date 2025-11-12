@@ -74,15 +74,24 @@ On the fourth day the following things are explored:
 - Access supporting metadata such as reference links and confidence scores
 - Use other tools such as code execution tool to generate code for example to plot data
 
-#### Finetune a Gemini model for a custom task
-- 
-
 ### 2024_Day_05
 Reading:[“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops).
 
 No labs this day, but a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](goo.gle/e2e-gen-ai-app-starter-pack)
 
 ### 2025_Day_01
+On the first day the following things are explored:
+
+#### Introduction to agents
+- How to set up a basic agent with ADK (Agent Development Kit)
+- Allow the agent to use Google Search as a tool
+- Use runners as orchestrators
+- Use ADK web interface
+
+#### Multi-agent architecture
+- Define a root agent that can use as tool other specialized agents
+- Create a sequential pipeline or assembly line for reliable ordered steps
+- 
 
 ### 2025_Day_02
 

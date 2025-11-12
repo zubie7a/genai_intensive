@@ -43,6 +43,13 @@ On the second day the following things are explored:
 - Predict a certain text category by using its embeddings with the embeddings trained model
 
 ### 2024_Day_03
+On the third day the following things are explored:
+
+#### Function calling with Gemini API
+- How to create a simple database using SQL lite
+- Define functions that can be called on this database e.g. listing tables, describing, executing a query
+- Provide a model with these functions/tools
+- Prompt a model and observe go
 
 ### 2024_Day_04
 

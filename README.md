@@ -49,7 +49,7 @@ On the third day the following things are explored:
 - How to create a simple database using SQL lite
 - Define functions that can be called on this database e.g. listing tables, describing, executing a query
 - Provide a model with these functions/tools
-- Prompt a model and observe go
+- Prompt a model and observe how these tools are called and how it generates new code e.g. SQL queries to execute
 
 ### 2024_Day_04
 

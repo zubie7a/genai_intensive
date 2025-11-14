@@ -95,6 +95,16 @@ On the first day the following things are explored:
 - Create a iterative improvement / loop pipeline
 
 ### 2025_Day_02
+On the second day the following things are explored:
+
+#### Agent tools
+- Creating custom tools
+- Generate code in tools to do math (e.g. to overcome LLMs math unreliability)
+- Difference between using function and agent tools, and sub agents
+
+#### Agent tools patterns, best practices, and MCP
+- Creating an agent that uses tools from an MCP server
+- Connect to external MCP servers e.g. Kaggle, Github
 
 ### 2025_Day_03
 

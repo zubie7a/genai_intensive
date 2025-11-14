@@ -107,6 +107,13 @@ On the second day the following things are explored:
 - Connect to external MCP servers e.g. Kaggle, Github
 
 ### 2025_Day_03
+On the third day the following things are explored:
+
+#### Memory management with sessions and storage
+- What are sessions and how to use them
+- Creating persistent sessions in databases
+- Reduce long term context storage by compacting them
+- Using session state tools to manage the user context
 
 ### 2025_Day_04
 

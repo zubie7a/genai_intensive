@@ -109,11 +109,13 @@ On the second day the following things are explored:
 ### 2025_Day_03
 On the third day the following things are explored:
 
-#### Sessions and memory
+#### Sessions and persistence
 - How to maintain state in agents using sessions
 - Persisting sessions in databases
 - Compacting session data to save storage space
 - Storing relevant values in session state using tools
+
+#### Agent memory
 
 ### 2025_Day_04
 

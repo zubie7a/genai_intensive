@@ -109,11 +109,11 @@ On the second day the following things are explored:
 ### 2025_Day_03
 On the third day the following things are explored:
 
-#### Memory management with sessions and storage
-- What are sessions and how to use them
-- Creating persistent sessions in databases
-- Reduce long term context storage by compacting them
-- Using session state tools to manage the user context
+#### Sessions and memory
+- How to maintain state in agents using sessions
+- Persisting sessions in databases
+- Compacting session data to save storage space
+- Storing relevant values in session state using tools
 
 ### 2025_Day_04
 

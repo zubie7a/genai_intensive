@@ -116,6 +116,10 @@ On the third day the following things are explored:
 - Storing relevant values in session state using tools
 
 #### Agent memory
+- Storing and retrieving important data in memory
+- Sharing memory between sessions
+- Automate memory updating and other actions with callbacks
+- Consolidate memory to relevant facts to save space
 
 ### 2025_Day_04
 
